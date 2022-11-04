@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 10px;
+  background-color: #2d6ab3;
+  border-radius: 10px;
+}
+
+.formu {
+  display: flex;
+  padding-top: 12.5px;
+}
+
+.divimg {
+  top: 2%;
+  left: 2%;
+  height: 75px;
+  width: 233px;
+  overflow: hidden;
+}
+.pokeworld {
+  height: 100px;
+}
